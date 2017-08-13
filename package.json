@@ -1,0 +1,22 @@
+{
+  "name": "ir-helper",
+  "version": "1.0.0",
+  "description": "helper for working with ir signals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3t0/ir-helper.git"
+  },
+  "keywords": [
+    "ir"
+  ],
+  "author": "Rafi Khan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/z3t0/ir-helper/issues"
+  },
+  "homepage": "https://github.com/z3t0/ir-helper#readme"
+}
